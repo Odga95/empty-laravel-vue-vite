@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    <div id="app">
+    <div id="app" class="mt-5">
         <example-component></example-component>
     </div>
 </body>
